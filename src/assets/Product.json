@@ -1,0 +1,159 @@
+[
+    {
+      "id": 0,
+      "imageUrl": "https://c.dns-shop.ru/thumb/st4/fit/200/200/4f8392e1fd2ffbc67e645bb7c78b622a/3012baa9bc23995289e498d33793b6007a246987cd6e5bd96dbd15aa6cd93c2c.jpg.webp",
+      "title": "Iphone 14 Pro",
+      "colortype": [0, 1, 2,3],
+      "sizes": [64, 128, 512],
+      "price": 125.999,
+      "category": 1,
+      "rating": 4,
+      "specifications": "Система: Операционная система: IOS 16; Модель процессора: Apple A16 Bionic "
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://c.dns-shop.ru/thumb/st4/fit/320/250/512611d6e78260aa557fb1e0e47a7885/79b6b9cbb58bf72e530b8f421054342f84e2ad9e8066e381150639afb3b80917.jpg",
+      "title": "Iphone 14",
+      "colortype": [1,2],
+      "sizes": [128,256, 512],
+      "price": 79.999,
+      "category": 1,
+      "rating": 6,
+      "specifications": ""
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://c.dns-shop.ru/thumb/st1/fit/320/250/e36f5885339eb222c00a799859c3200a/97c5cac2aabbc83a09317e4d7677d6d626118dbf0370881c9229fb2fc494644e.jpg",
+      "title": "Iphone 13",
+      "colortype": [0, 2],
+      "sizes": [256,512],
+      "price": 62.999,
+      "category": 1,
+      "rating": 4,
+      "specifications": ""
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://c.dns-shop.ru/thumb/st4/fit/320/250/4a2563a943e0ace45fef2f91fb4a5f96/0d165c6aaa50c9760d5c18407343787349c0f8f1a0da8b4486ab43dc90c8cec3.jpg",
+      "title": "Iphone 13 Pro Max",
+      "colortype": [1,2,4],
+      "sizes": [128, 512],
+      "price": 89.999,
+      "category": 1,
+      "rating": 2,
+      "specifications": ""
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://c.dns-shop.ru/thumb/st4/fit/500/500/4c001cbdd047ccbceba944f5ff186425/4571a39097ebbe44431d338b7d5a519b664fc5704af2875fafc3628a4e46af63.jpg.webp",
+      "title": "Iphone 11",
+      "colortype": [1, 2,3],
+      "sizes": [64, 128],
+      "price": 36.999,
+      "category": 1,
+      "rating": 8,
+      "specifications": ""
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://c.dns-shop.ru/thumb/st4/fit/500/500/cd5ac62238af3c5e8a31586fb7e685de/e952b83a4dce7860b0da53224f884db81dd467b7e1fdd6b597189fdc0dc9e5c3.jpg.webp",
+      "title": "Iphone XR",
+      "colortype": [2],
+      "sizes": [64, 128],
+      "price": 29.999,
+      "category": 1,
+      "rating": 2,
+      "specifications": ""
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://c.dns-shop.ru/thumb/st4/fit/500/500/15752b804b5d6dcd48655a50633e6e77/04ca8933b2fcb42caaef4edcd6fb11da54fcbde54ab72f4181c53cf409cf74e0.jpg.webp",
+      "title": "Iphone 12 Pro",
+      "colortype": [0, 1],
+      "sizes": [256],
+      "price": 72.899,
+      "category": 1,
+      "rating": 9,
+      "specifications": ""
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://c.dns-shop.ru/thumb/st4/fit/500/500/80e5f04113d7955e3fae82319040e476/534489f34bc464e4cf68522999686645c9ac3ea0cca7faa03cef57480237d900.jpg.webp",
+      "title": "Iphone 12",
+      "colortype": [0, 1, 2],
+      "sizes": [64, 128, 512],
+      "price": 58.999,
+      "category": 1,
+      "rating": 10,
+      "specifications": ""
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://c.dns-shop.ru/thumb/st4/fit/500/500/c109f4cfd676416057d22cb50f5418e0/3fb14682d2b81647c39d4e057013bf71ef98e784556709dc528c69630ed20622.jpg.webp",
+      "title": "Iphone 12 Pro Max",
+      "colortype": [0, 1],
+      "sizes": [128, 256, 512],
+      "price": 85.599,
+      "category": 1,
+      "rating": 10,
+      "specifications": ""
+    },
+    {
+      "id":9 ,
+      "imageUrl": "https://c.dns-shop.ru/thumb/st4/fit/300/300/bf6fb4db045ce7a55b64e3027c6ef3c2/6c21acb6e335d73f262e1dcdf9d9d8c17cb84484218cade58acd90a15748493d.jpg.webp",
+      "title": "MacBook Air M1 13.3",
+      "colortype": [1,5],
+      "sizes": [256, 512],
+      "price": 81.599,
+      "category": 2,
+      "rating": 10,
+      "specifications": ""
+    },
+    {
+      "id":10 ,
+      "imageUrl": "https://c.dns-shop.ru/thumb/st4/fit/0/0/4729c830a4e1e14d8f50d7007a12bc74/98ba28500b2b09458ae61feab0d2f6046fd846ccf4e930c5068cd758724bef66.jpg.webp",
+      "title": "MacBook Air M2",
+      "colortype": [2],
+      "sizes": [512, 1024],
+      "price": 99.999,
+      "category": 2,
+      "rating": 10,
+      "specifications": ""
+    },
+    {
+      "id":11 ,
+      "imageUrl": "https://c.dns-shop.ru/thumb/st4/fit/500/500/995271bdcb9e629eb56cf1356422b55c/4836fd318384caea0e76d171e8b70c21063892db9498331838b02790640ed9a2.jpg.webp",
+      "title": "MacBook Pro M1 Pro 16.2",
+      "colortype": [1],
+      "sizes": [512, 1024],
+      "price": 208.999,
+      "category": 2,
+      "rating": 10,
+      "specifications": ""
+    },
+    {
+      "id":12 ,
+      "imageUrl": "https://c.dns-shop.ru/thumb/st1/fit/0/0/1adb43bd541ae1c045d9fc9dc5f94b7c/d0fbb39fc4011c0f72141f1b02d28e678ab7b77aea1f3d6d1270e4618dd67569.jpg.webp",
+      "title": "Ipad Air (2022) Wi-Fi",
+      "colortype": [0,1,2],
+      "sizes": [128, 512],
+      "price": 67.199,
+      "category": 3,
+      "rating": 10,
+      "specifications": ""
+    },
+    {
+      "id":13 ,
+      "imageUrl": "https://c.dns-shop.ru/thumb/st4/fit/0/0/ea425d1146478fb67c4d5eb46e88633b/d6a837d3b3aad625dd52228da2fed3c554263ea31ba71a707d7b76f2e0d88f89.jpg.webp",
+      "title": "Ipad Pro (2020) 4G",
+      "colortype": [0,1,2],
+      "sizes": [512, 1024],
+      "price": 99.999,
+      "category": 3,
+      "rating": 10,
+      "specifications": ""
+    }
+    
+    
+   
+  ]
